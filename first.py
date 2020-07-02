@@ -1,2 +1,2 @@
-print("Hello, git!")
-print("Go Python!")
+print("Hello")
+print("My name is Clone")
